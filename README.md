@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A MERN Developer and Tech Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsp206&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsp206" /> </p>
 
 <p align="left"> <a href="https://twitter.com/utkarsh09478754" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh09478754?logo=twitter&style=for-the-badge" alt="utkarsh09478754" /></a> </p>
 
-- 🌱 I’m currently learning **PHP , MongoDB**
+- 🌱 I’m currently learning **WebRTC , MERN**
 
 - 📫 How to reach me **utkarshsp206@gmail.com**
 

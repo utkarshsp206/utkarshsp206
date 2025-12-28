@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkarsh09478754" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh09478754?logo=twitter&style=for-the-badge" alt="utkarsh09478754" /></a> </p>
 
-- 🌱 I’m currently learning **WebRTC , MERN**
+- 🌱 I’m currently working at **StateStreet** as an **Associate 2**
 
 - 📫 How to reach me **utkarshsp206@gmail.com**
 
